@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://eletrolaix.github.io/ProvaWeb/"
 publishDir="docs"
 languageCode = "en-us"
 theme = "terminal"
