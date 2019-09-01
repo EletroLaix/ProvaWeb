@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/projects/</loc>
+    <loc>https://eletrolaix.github.io/ProvaWeb/projects/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/blog/</loc>
+    <loc>https://eletrolaix.github.io/ProvaWeb/blog/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://eletrolaix.github.io/ProvaWeb/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>https://eletrolaix.github.io/ProvaWeb/tags/</loc>
   </url>
   
 </urlset>
