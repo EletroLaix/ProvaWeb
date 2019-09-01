@@ -1,4 +1,4 @@
-baseurl = "michelescemo.xyz/"
+baseurl = "http://michelescemo.xyz/"
 publishDir="docs"
 languageCode = "en-us"
 theme = "terminal"
