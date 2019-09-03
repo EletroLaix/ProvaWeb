@@ -7,6 +7,5 @@ resources:
     - src: plant.jpg
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
 ---
 Una altra mia passione è la fotografia, osservare il mondo e catturarlo in qualche megabyte

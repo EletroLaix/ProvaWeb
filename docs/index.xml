@@ -6,9 +6,56 @@
     <description>Recent content on Introduzione</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 03 Sep 2019 21:33:33 +0200</lastBuildDate>
     
 	<atom:link href="https://eletrolaix.github.io/ProvaWeb/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SecondoGiorno</title>
+      <link>https://eletrolaix.github.io/ProvaWeb/blog/secondogiorno/</link>
+      <pubDate>Tue, 03 Sep 2019 21:33:33 +0200</pubDate>
+      
+      <guid>https://eletrolaix.github.io/ProvaWeb/blog/secondogiorno/</guid>
+      <description>OK si continua&amp;hellip; Oggi dopo una giornata fatta di tastiera, mouse e monitor a lavoro e pochissime interazioni personali eccomi qui&amp;hellip; In realtà volevo vedere il nuovo film I am mother, consigliato casualmente da un amico che non reputo un grande competente di film ma che sicuramente mi conosce. Insomma stavo attendendo che finisse di scaricare il torrent (si lo so&amp;hellip; pirateria), per poi ordinarlo nelle cartelle della galleria e aggiornare la libreria di Plex ma mi sono ricordato di questo progetto e quindi&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Fotografia</title>
+      <link>https://eletrolaix.github.io/ProvaWeb/projects/fotografia/</link>
+      <pubDate>Sun, 01 Sep 2019 22:23:49 +0200</pubDate>
+      
+      <guid>https://eletrolaix.github.io/ProvaWeb/projects/fotografia/</guid>
+      <description>Una altra mia passione è la fotografia, osservare il mondo e catturarlo in qualche megabyte</description>
+    </item>
+    
+    <item>
+      <title>3D Print</title>
+      <link>https://eletrolaix.github.io/ProvaWeb/projects/3d-print/</link>
+      <pubDate>Sun, 01 Sep 2019 22:20:53 +0200</pubDate>
+      
+      <guid>https://eletrolaix.github.io/ProvaWeb/projects/3d-print/</guid>
+      <description>Devo ammetterlo la stampante 3D è stata la cosa piu veloce che mi ha avvicinato al mondo della meccatronica, meccanica e lettronica e la mia passione informatica tutto in uno.</description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>https://eletrolaix.github.io/ProvaWeb/projects/youtube/</link>
+      <pubDate>Sun, 01 Sep 2019 22:16:42 +0200</pubDate>
+      
+      <guid>https://eletrolaix.github.io/ProvaWeb/projects/youtube/</guid>
+      <description>EletroLaix questo è il nome con cui mi trovate su YouTube</description>
+    </item>
+    
+    <item>
+      <title>PrimoGiorno</title>
+      <link>https://eletrolaix.github.io/ProvaWeb/blog/primogiorno/</link>
+      <pubDate>Sun, 01 Sep 2019 22:10:49 +0200</pubDate>
+      
+      <guid>https://eletrolaix.github.io/ProvaWeb/blog/primogiorno/</guid>
+      <description> Un sito personale ? Come ogni vero programmatore che si rispetti avere un sito personale è indispensabile e quindi eccomi qui&amp;hellip; E domenica e dopo una giornata passata in campagna con la famiglia mi ristrovo solo davanti a i miei tre monitor a buttare giu la bozza del mio primo vero sito personale, le domane sorgno spontanee:
+ Durerà ? Ne vale la pena ?  </description>
+    </item>
     
   </channel>
 </rss>

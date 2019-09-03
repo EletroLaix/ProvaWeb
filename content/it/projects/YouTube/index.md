@@ -7,7 +7,6 @@ resources:
     - src: YouTubeImage.png
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
 ---
 
 EletroLaix questo è il nome con cui mi trovate su YouTube

@@ -7,7 +7,6 @@ resources:
     - src: plant.jpg
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
-draft: true
 ---
 
 Devo ammetterlo la stampante 3D è stata la cosa piu veloce che mi ha avvicinato al mondo della meccatronica, meccanica e lettronica e la mia passione informatica tutto in uno.

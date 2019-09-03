@@ -1,6 +1,5 @@
 ---
 title: "About"
-draft: true
 image: "about.jpg"
 weight: 8
 ---

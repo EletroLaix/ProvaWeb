@@ -1,7 +1,6 @@
 ---
 title: "PrimoGiorno"
 date: 2019-09-01T22:10:49+02:00
-draft: true
 ---
 
 # Un sito personale ?
