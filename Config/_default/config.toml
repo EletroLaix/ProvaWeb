@@ -1,9 +1,9 @@
 baseURL                          = "https://eletrolaix.github.io/ProvaWeb"  # Your domain name. Must end with "/"
+
 theme                            = "introduction"
+
 DefaultContentLanguage           = "it"                    # Default language for multilingual sites
-publishDir = "docs"
-# disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
-# googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
+publishDir                       = "docs"
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
