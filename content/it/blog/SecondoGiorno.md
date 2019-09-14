@@ -1,6 +1,7 @@
 ---
 title: "SecondoGiorno"
 date: 2019-09-03T21:33:33+02:00
+draft: true
 ---
 
 # OK si continua...
