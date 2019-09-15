@@ -7,6 +7,7 @@ resources:
     - src: "Libri.jpg"
       params:
           weight: -100 # Optional weighting for a specific image in this project folder
+draft: true
 ---
 ## Le citazioni che in qualche modo mi hanno segnato
 
